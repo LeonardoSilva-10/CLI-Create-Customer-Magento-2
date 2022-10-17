@@ -1,0 +1,25 @@
+{
+    "name": "leonardo/clicreate",
+    "description": "Module for import files with data and create new customers.",
+    "type": "magento2-module",
+    "license": "MIT",
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "Leonardo Silva",
+            "email": "leonardof.silva2020@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": "8.*"
+    },
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "Leonardo\\CliCreate\\": ""
+        }
+    }
+}
