@@ -1,6 +1,6 @@
 <?php
 
-namespace Leonardo\CliCreate\Console\Command;
+namespace LsBr\CliCreate\Console\Command;
 
 interface ImportInterface
 {

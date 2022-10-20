@@ -1,5 +1,5 @@
 <?php
-namespace Leonardo\CliCreate\Model;
+namespace LsBr\CliCreate\Model;
 
 interface CreateInterface{
     /**

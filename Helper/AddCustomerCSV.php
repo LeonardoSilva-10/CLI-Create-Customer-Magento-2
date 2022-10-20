@@ -1,7 +1,7 @@
 <?php
-namespace Leonardo\CliCreate\Helper;
+namespace LsBr\CliCreate\Helper;
 
-use Leonardo\CliCreate\Helper\Data\AddCustomerInterface;
+use LsBr\CliCreate\Helper\Data\AddCustomerInterface;
 use Magento\Customer\Api\CustomerRepositoryInterface;
 use Magento\Customer\Api\Data\CustomerInterface;
 use Magento\Customer\Api\Data\CustomerInterfaceFactory;

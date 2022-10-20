@@ -1,5 +1,5 @@
 <?php
-namespace Leonardo\CliCreate\Helper\Data;
+namespace LsBr\CliCreate\Helper\Data;
 
 interface AddCustomerInterface{
     /**

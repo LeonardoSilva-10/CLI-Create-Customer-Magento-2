@@ -43,3 +43,6 @@
 /var/package/*
 !/var/package/*.xml
 
+# IDE JetBrains
+..DS_Store
+.idea

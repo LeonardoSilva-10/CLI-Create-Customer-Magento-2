@@ -1,14 +1,14 @@
 <?php
-namespace Leonardo\CliCreate\Model;
+namespace LsBr\CliCreate\Model;
 
-use Leonardo\CliCreate\Console\Command\ImportInterface;
-use Leonardo\CliCreate\Model\CreateCustomerWithCSV;
+use LsBr\CliCreate\Console\Command\ImportInterface;
+use LsBr\CliCreate\Model\CreateCustomerWithCSV;
 use Magento\Framework\Exception\NoSuchEntityException;
 
 class ImportSaveData implements ImportInterface
 {
     /**
-     * @param \Leonardo\CliCreate\Model\CreateCustomerWithCSV $createCustomerWithCSV
+     * @param \LsBr\CliCreate\Model\CreateCustomerWithCSV $createCustomerWithCSV
      */
     public function __construct(protected CreateCustomerWithCSV $createCustomerWithCSV){}
     /**

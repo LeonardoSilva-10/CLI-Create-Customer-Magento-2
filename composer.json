@@ -1,5 +1,5 @@
 {
-    "name": "leonardo/clicreate",
+    "name": "lsbr/clicreate",
     "description": "Module for import files with data and create new customers.",
     "type": "magento2-module",
     "license": "MIT",
@@ -19,7 +19,7 @@
             "registration.php"
         ],
         "psr-4": {
-            "Leonardo\\CliCreate\\": ""
+            "LsBr\\CliCreate\\": ""
         }
     }
 }

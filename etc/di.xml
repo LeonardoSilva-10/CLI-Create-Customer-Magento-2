@@ -3,7 +3,7 @@
     <type name="Magento\Framework\Console\CommandListInterface">
         <arguments>
             <argument name="commands" xsi:type="array">
-                <item name="customer:import" xsi:type="object">Leonardo\CliCreate\Console\Command\ImportFile</item>
+                <item name="customer:import" xsi:type="object">LsBr\CliCreate\Console\Command\ImportFile</item>
             </argument>
         </arguments>
     </type>

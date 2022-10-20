@@ -1,14 +1,14 @@
 <?php
 declare(strict_types=1);
 
-namespace Leonardo\CliCreate\Console\Command;
+namespace LsBr\CliCreate\Console\Command;
 
 use Magento\Framework\Exception\NoSuchEntityException;
 use Symfony\Component\Console\Command\Command;
 use Symfony\Component\Console\Input\InputArgument;
 use Symfony\Component\Console\Input\InputInterface;
 use Symfony\Component\Console\Output\OutputInterface;
-use Leonardo\CliCreate\Model\ImportSaveData;
+use LsBr\CliCreate\Model\ImportSaveData;
 
 class ImportFile extends Command
 {

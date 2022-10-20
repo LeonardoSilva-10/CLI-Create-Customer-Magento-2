@@ -1,7 +1,7 @@
 <?php
-namespace Leonardo\CliCreate\Model;
+namespace LsBr\CliCreate\Model;
 
-use Leonardo\CliCreate\Helper\AddCustomerCSV;
+use LsBr\CliCreate\Helper\AddCustomerCSV;
 use Magento\Framework\Exception\NoSuchEntityException;
 use Magento\Framework\Phrase;
 use Magento\Store\Model\StoreManager;
