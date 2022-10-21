@@ -11,6 +11,10 @@
  - composer require lsbr/clicreate
  - ./bin/magento module:enable LsBr_CliCreate && ./bin/magento setup:upgrade && ./bin/magento setup:di:compile
 
+# How to Use
+
+ - Ex: ./bin/magento customer:import <profile-name> <source>
+
 # Future feature
 
  - Implementation option JSON file.
