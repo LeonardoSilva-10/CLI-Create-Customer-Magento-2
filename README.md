@@ -13,7 +13,7 @@
 
 # How to Use
 
- - Ex: ./bin/magento customer:import <profile-name> <source>
+ - Ex: ./bin/magento customer:import profile-name source
 
 # Future feature
 
