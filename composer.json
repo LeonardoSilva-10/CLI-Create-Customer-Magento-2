@@ -1,6 +1,6 @@
 {
     "name": "lsbr/clicreate",
-    "description": "Module for import files with data and create new customers.",
+    "description": "Magento 2 Module for create customer via CLI command, using csv file.",
     "type": "magento2-module",
     "license": "MIT",
     "version": "1.0.0",
