@@ -9,7 +9,7 @@
 # How to Install 
  
  - composer require lsbr/clicreate
- - ./bin/magento module:enable lsbr/clicreate && ./bin/magento setup:upgrade && ./bin/magento setup:di:compile
+ - ./bin/magento module:enable LsBr_CliCreate && ./bin/magento setup:upgrade && ./bin/magento setup:di:compile
 
 # Future feature
 
