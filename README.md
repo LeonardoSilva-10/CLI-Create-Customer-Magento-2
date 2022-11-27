@@ -2,6 +2,8 @@
 
 <h3>Magento 2 Module for create customer via CLI command, using csv file.</h3> 
 
+[![CodeFactor](https://www.codefactor.io/repository/github/leonardosilva-10/cli-create-customer-magento-2/badge)](https://www.codefactor.io/repository/github/leonardosilva-10/cli-create-customer-magento-2)
+
 # Requirements
 
  <h3>Magento 2.4.5</h3>
